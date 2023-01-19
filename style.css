@@ -3,12 +3,21 @@
 body {
     background-color: #c4bbb8;
 }
-#nome {
-    font-family:'Vibur', cursive;
-}
+
 #descricao {
     font-family: 'Roboto Serif', serif;
 }
 li {
     font-size: 20px;
 }
+#nome {
+    font-family:'Vibur', cursive;
+    text-align: center;
+}
+
+#content-description  {
+    display: flex;
+    align-items: center;
+}
+
+
